@@ -1,6 +1,3 @@
-# Prova_Senior
+# Detecção de Spam em E-mails
 
-Para executar vocẽ precisa ter o jupyter notebook
-
-Bibliotecas necessárias:
-
+O objetivo deste projeto 
