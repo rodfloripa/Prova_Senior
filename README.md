@@ -5,4 +5,4 @@ foi o Naive Bayes, por ser amplamente utilizado em tarefas de classificaçao de 
 
  <p><a href="https://github.com/rodfloripa/Prova_Senior/blob/main/prova-Senior.ipynb">O codigo em formato jupyter notebook pode ser acessado aqui</a></p> 
 
-<p><a href="https://github.com/rodfloripa/Prova_Senior/blob/main/SeniorLabs-Prova.pdf">O relatorio esta aqui</a></p> 
+<p><a href="https://github.com/rodfloripa/Prova_Senior/blob/main/SeniorLabs-Prova-2.pdf">O relatorio esta aqui</a></p> 
